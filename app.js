@@ -8,6 +8,7 @@ const resultMessage = document.querySelector(".results");
 const rock = document.getElementById("r");
 const paper = document.getElementById("p");
 const scissor = document.getElementById("s");
+const reset = document.getElementById("reset");
 
 function getComputerChoice() {
   const choices = ["r", "p", "s"];
