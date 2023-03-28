@@ -9,4 +9,4 @@
 3. Play the game
 4. Have Fun!
 
-For questions you can write to [@muhamed_kanapiya](t.me/muhamed_kanapiya)
+For questions you can write to [@muhamed_kanapiya](https://t.me/muhamed_kanapiya)
