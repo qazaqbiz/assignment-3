@@ -32,7 +32,10 @@ p {
   align-content: center;
   margin-bottom: 50px;
 }
-
+.results {
+  margin-bottom: 50px;
+  text-align: center;
+}
 .choice {
   cursor: pointer;
   transition: all 0.2s ease-in-out;
@@ -42,6 +45,17 @@ p {
   transform: scale(1.1);
 }
 
+.score {
+  margin-bottom: 50px;
+  font-size: 48px;
+}
+
+.score-num {
+  background: #000;
+  padding: 10px;
+  color: #fff;
+  border-radius: 10px;
+}
 .rules {
   max-width: 600px;
 }
